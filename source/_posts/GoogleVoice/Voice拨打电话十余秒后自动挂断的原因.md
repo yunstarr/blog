@@ -3,7 +3,7 @@ layout: google
 title: Voice拨打电话十余秒后自动挂断的原因
 date: 2024-10-26 11:43:44
 abbrlink: 9ae68a89
-cover: "https://www.dmoe.cc/random.php?12"
+cover: "https://s1.imagehub.cc/images/2024/10/26/1bef4e2cbf7dde251b2d56627d136c6f.webp"
 tags:
   - GoogleVoice
   - 教程

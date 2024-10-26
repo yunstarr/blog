@@ -946,7 +946,7 @@ darkmode:
 # autoChangeMode:1根据系统设置，如果系统不支持暗模式，它将在下午6点到早上6点之间切换暗模式
 # autoChangeMode:2在下午6点到早上6点之间切换黑暗模式
 # autoChangeMode:false
-  autoChangeMode: 1
+  autoChangeMode: false
   start: # 8
   end: # 22
 

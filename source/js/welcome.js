@@ -29,7 +29,7 @@ function getDistance(e1, n1, e2, n2) {
 
 function showWelcome() {
 
-    let dist = getDistance(114.21416, 22.576264, ipLocation.result.location.lng, ipLocation.result.location.lat); 
+    let dist = getDistance(118.304292, 32.240863, ipLocation.result.location.lng, ipLocation.result.location.lat); 
     let pos = ipLocation.result.ad_info.nation;
     let ip;
     let posdesc;
@@ -129,7 +129,7 @@ function showWelcome() {
                     }
                     break;
                 case "安徽省":
-                    posdesc = "蚌埠住了，芜湖起飞";
+                    posdesc = "环滁皆山也";
                     break;
                 case "福建省":
                     posdesc = "井邑白云间，岩城远带山";

@@ -142,7 +142,7 @@ favicon: https://cdn.bsgun.cn/Hexo-static/img/favicon.ico
 
 # Avatar (头像)
 avatar:
-  img: https://cdn.bsgun.cn/Hexo-static/img/avatar.256.avif
+  img: https://s1.imagehub.cc/images/2024/10/26/11290a2d60b40e3637ae703e3b3b75f2.jpeg
   effect: false
 
 # 禁用所有横幅图像
@@ -531,7 +531,7 @@ footer:
         links:
           - title: 恋爱计时
             link: https://love.bsgun.cn/
-          - title: 若梦图床
+          - title: 云岚图床
             link: https://dev.ruom.top/
           - title: 站点监测
             link: https://status.bsgun.cn/
@@ -751,7 +751,7 @@ ClickShowText:
 
 # Default display mode (网站默认的显示模式)
 # light (default) / dark
-display_mode: light
+display_mode: dark
 
 # Beautify (美化页面显示)
 beautify:
@@ -814,7 +814,7 @@ preloader:
   source: 3
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
-  avatar: https://cdn.bsgun.cn/Hexo-static/img/avatar.256.avif # 自定加载动画义头像
+  avatar: https://s1.imagehub.cc/images/2024/10/26/11290a2d60b40e3637ae703e3b3b75f2.jpeg # 自定加载动画义头像
 
 # aside (侧边栏)
 # --------------------------------------
@@ -1077,17 +1077,17 @@ home_top:
   siteText: 小天同学
   category:
     - name: 教程
-      path: /categories/教程/
+      # path: /categories/教程/
       shadow: var(--anzhiyu-shadow-blue)
       class: blue
       icon: anzhiyu-icon-dove
     - name: 生活
-      path: /categories/生活/
+      # path: /categories/生活/
       shadow: var(--anzhiyu-shadow-red)
       class: red
       icon: anzhiyu-icon-fire
     - name: 随想
-      path: /categories/随想/
+      # path: /categories/随想/
       shadow: var(--anzhiyu-shadow-green)
       class: green
       icon: anzhiyu-icon-book
@@ -1099,7 +1099,7 @@ home_top:
   banner:
     tips:
     title: 一起来玩
-    image: https://cdn.bsgun.cn/Hexo-static/img/yjwj.avif
+    image: https://s1.imagehub.cc/images/2024/10/26/80540b12e89d4228b4f12fe8d79a4c78.png
     link: https://www.yjwujian.cn/
 
 # Lite朋友圈配置

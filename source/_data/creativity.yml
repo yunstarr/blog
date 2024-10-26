@@ -1,0 +1,38 @@
+- class_name: 开启创造力
+  creativity_list:
+    - name: Java
+      color: "#fff"
+      icon: https://cdn.bsgun.cn/Hexo-static/img/about/skill/Java.avif
+    - name: Docker
+      color: "#57b6e6"
+      icon: https://cdn.bsgun.cn/Hexo-static/img/about/skill/Docker.avif
+    - name: Photoshop
+      color: "#4082c3"
+      icon: https://cdn.bsgun.cn/Hexo-static/img/about/skill/Photoshop.avif
+    - name: Webpack
+      color: "#2e3a41"
+      icon: https://cdn.bsgun.cn/Hexo-static/img/about/skill/Webpack.avif
+    - name: Python
+      color: "#fff"
+      icon: https://cdn.bsgun.cn/Hexo-static/img/about/skill/Python.avif
+    - name: Flutter
+      color: "#4499e4"
+      icon: https://cdn.bsgun.cn/Hexo-static/img/about/skill/Flutter.avif
+    - name: Vue
+      color: "#b8f0ae"
+      icon: https://cdn.bsgun.cn/Hexo-static/img/about/skill/Vue.avif
+    - name: CSS3
+      color: "#2c51db"
+      icon: https://cdn.bsgun.cn/Hexo-static/img/about/skill/CSS3.avif
+    - name: JS
+      color: "#f7cb4f"
+      icon: https://cdn.bsgun.cn/Hexo-static/img/about/skill/JS.avif
+    - name: HTML
+      color: "#e9572b"
+      icon: https://cdn.bsgun.cn/Hexo-static/img/about/skill/HTML.avif
+    - name: Git
+      color: "#df5b40"
+      icon: https://cdn.bsgun.cn/Hexo-static/img/about/skill/Git.avif
+    - name: Apifox
+      color: "#e65164"
+      icon: https://cdn.bsgun.cn/Hexo-static/img/about/skill/Apifox.avif

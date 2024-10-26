@@ -1,0 +1,110 @@
+- class_name: 关于页
+  subtitle: 享受生活，支配生活💤
+  avatarImg: https://cdn.bsgun.cn/Hexo-static/img/avatar.256.avif
+  avatarSkills:
+    left:
+      - 🤖️ 数码科技爱好者
+      - 🔍 分享与热心帮助
+      - 🏠 智能家居小能手
+      - 🔨 设计开发一条龙
+    right:
+      - 专修交互与设计 🤝
+      - 脚踏实地行动派 🏃
+      - 团队小组发动机 🧱
+      - 壮汉人狠话不多 💢
+  name: 小天同学
+  description: 是社会上的打工人，还是一个超级懒的博主
+  aboutsiteTips:
+    tips: 追求
+    title1: 源于
+    title2: 热爱而去 感受
+    word:
+      - 生活
+      - 生命
+      - 体验
+  helloAbout: Hello World
+  skillsTips:
+    tips: 技能
+    title: 开启创造力
+  careers:
+    tips: 生活
+    title: 无非就是
+    list:
+      - desc: 吃饭，洗澡，睡觉，
+        color: "#357ef5"
+      - desc: 看视频，玩游戏
+        color: "#357ef5"
+      - desc: 几年如此，一直如此
+        color: "#357ef5"
+    img: https://cdn.bsgun.cn/Hexo-static/img/about/rensheng.avif
+  statistic:
+    link: /archives/
+    text: 文章隧道
+    cover: https://cdn.bsgun.cn/Hexo-static/img/about/shumakeji.avif
+  map:
+    title: 我现在住在
+    StrengthenTitle: 中国 - 安徽 - 滁州
+    # background: https://cdn.bsgun.cn/Hexo-static/img/about/map1.avif
+    # backgroundDark: https://cdn.bsgun.cn/Hexo-static/img/about/map1.avif
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 2003
+    selfInfoTips2: 生活
+    selfInfoContent2: 无限摆烂
+    selfInfoTips3: 现在职业
+    selfInfoContent3: 个体户
+  personalities:
+    author_name: 鉴赏家
+    personality_type: ENTJ
+    photo_url: https://cdn.bsgun.cn/Hexo-static/img/about/map2.avif
+    personality_img: https://cdn.bsgun.cn/Hexo-static/img/about/ISTP-A.svg
+    name_url: https://www.16personalities.com/ch/ISTP-%E4%BA%BA%E6%A0%BC
+  maxim:
+    maxim_tips: 座右铭
+    maxim_top: 不负光阴，不负爱情
+    maxim_bottom: 不负心灵，不负今生
+  buff:
+    buff_tips: 特长
+    buff_top: 特会做-白日梦
+    buff_bottom: 白日梦指数 MAX++
+  game:
+    game_tips:
+    game_title:
+    game_uid: "ID：二十岁腹肌猛男"
+    game_bg: https://cdn.bsgun.cn/Hexo-static/img/yjwj.avif
+  comic:
+    comic_tips: 喜爱动漫
+    comic_title:
+    comic_list:
+      - name: 仙逆
+        href: https://v.qq.com/x/cover/mzc00200aaogpgh.html
+        cover: https://cdn.bsgun.cn/Hexo-static/img/about/xianni.avif
+      - name: 遮天
+        href: https://v.qq.com/x/cover/mzc00200n53vkqc.html
+        cover: https://cdn.bsgun.cn/Hexo-static/img/about/zhetian.avif
+      - name: 诛仙
+        href: https://v.qq.com/x/cover/mzc00200kwy29cd.html
+        cover: https://cdn.bsgun.cn/Hexo-static/img/about/zhuxian.avif
+      - name: 斗罗Ⅱ
+        href: https://v.qq.com/x/cover/mzc00200xf3rir6.html
+        cover: https://cdn.bsgun.cn/Hexo-static/img/about/douluo2.avif
+      - name: 完美世界
+        href: https://v.qq.com/x/cover/mcv8hkc8zk8lnov.html
+        cover: https://cdn.bsgun.cn/Hexo-static/img/about/wanmei.avif
+      - name: 斗破苍穹
+        href: https://v.qq.com/x/cover/mzc0020027yzd9e.html
+        cover: https://cdn.bsgun.cn/Hexo-static/img/about/doupo.avif
+  like:
+    like_tips: 关注偏好
+    like_title: 数码科技
+    like_bg: https://bu.dusays.com/2022/12/06/638f5f05ce1f7.jpg
+    like_bottom: 手机,电脑软硬件
+  music:
+    music_tips: 音乐偏好
+    music_title: 纯音乐、致抑、治愈
+    music_bg: https://cdn.bsgun.cn/Hexo-static/img/about/music.avif
+    music_link: //music.163.com/#/user/home?id=539456589
+  # reward_list:
+  #   - name: Deep
+  #     amount: 88.00
+  #     datatime: 2023-03-28

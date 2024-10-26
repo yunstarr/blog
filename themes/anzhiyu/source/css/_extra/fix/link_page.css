@@ -1,0 +1,26 @@
+body[data-type="link"] main #page {
+  border: 0;
+  box-shadow: none !important;
+  padding: 0 !important;
+  background: transparent !important;
+}
+
+[data-theme="dark"] body[data-type="link"] #page {
+  background: transparent;
+}
+
+body[data-type="link"] .flink-decoration {
+  display: inline-block;
+}
+
+.flink-decoration {
+  display: none;
+  margin-right: 4px;
+  color: var(--anzhiyu-main);
+  font-weight: 600;
+  font-size: large;
+}
+
+.flink .anzhiyu-flink-list {
+  padding: 0;
+}

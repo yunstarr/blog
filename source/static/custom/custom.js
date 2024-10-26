@@ -1,17 +1,3 @@
-// 防恶意反代
-const allowedDomains = ['localhost', 'blog.bsgun.cn', 'blog.ruom.top','ruom.netlify.app','jlinmr.github.io'];
-
-if (!allowedDomains.includes(document.domain)) {
-  Snackbar.show({
-    text: decodeURI('您现在处于恶意镜像站中,即将跳转回源站!'),
-    pos: 'top-center',
-    actionText: '确定',
-    duration: 5000,
-    onActionClick: () => window.location.href = 'https://blog.bsgun.cn'
-  });
-
-  setTimeout(() => window.location.href = 'https://blog.bsgun.cn', 5000);
-}
 
 function initFooterAnimal() {
     const footerBar = document.querySelector('#footer-bar');

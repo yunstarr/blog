@@ -102,9 +102,7 @@ theme: anzhiyu
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repository: https://github.com/yunstarr/yunstarr.git
-  branch: main
+  type: ''
 
 
 ### 插件配置
